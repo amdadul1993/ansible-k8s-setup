@@ -1,0 +1,6 @@
+[masters]
+master.example.com
+
+[workers]
+node1.example.com
+nodetwo.example.com
